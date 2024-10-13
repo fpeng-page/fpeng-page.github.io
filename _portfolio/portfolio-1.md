@@ -1,7 +1,33 @@
 ---
-title: "Portfolio item number 1"
+title: "Honors & Awards"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+Honors & Awards
+------
+1. 2024年北京理工大学博士生优秀学位论文奖
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+2. 2022年北京理工大学研究生奖学金二等奖
+
+3. 2021年国家留学基金委国家公派留学奖学金
+
+4. 2021年中国信息系统协会博士生论坛（CNAIS）优秀论文奖
+
+5. 2021年韩国管理信息系统会议（KMIS）最佳论文奖
+
+6. 2021年第三届全国高校数据驱动创新研究大赛一等奖
+
+7. 2021年北京理工大学研究生奖学金特等奖
+
+8. 2020年北京理工大学研究生奖学金二等奖
+
+9. 2019年北京理工大学研究生奖学金二等奖
+
+10. 2018年北京理工大学研究生奖学金一等奖
+
+11. 2018年中国信息系统协会博士生论坛（CNAIS）优秀论文奖
+
+12. 2017年北京理工大学“挑战杯”三等奖
+
+13. 2017年内蒙古自治区优秀毕业生
+
