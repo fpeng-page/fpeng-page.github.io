@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "QIAO Wanxin"
 description              : &description "personal description"
 url                      : https://qiaowanxin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "picture.png"
   bio              : "The harder, the luckier"
   location         : "China, Beijing"
-  employer         :
+  employer         : "Beijing University of Technology"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
