@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Information"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,101 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ 乔晚馨是北京工业大学经济与管理学院管理科学与工程系的助理教授。在加入北京工业大学之前，她在北京理工大学管理学院获得了博士学位，且读博期间在美国乔治华盛顿大学联合培养一年。
+    QIAO Wanxin is an assistant professor from the Department of Management Science at School of Economics and Management, Beijing University of Technology (BJUT). Before joining BJUT, she received her Ph.D from the School of Management at the Beijing Institute of Technology and spent a year as a visiting scholar at George Washington University in the United States during her doctoral studies.
 
-A data-driven personal website
+    乔晚馨的研究兴趣在于探讨由信息技术进步推动的当代商业现象，特别关注其对企业和个人的行为和经济影响。她的研究涵盖三个主要领域：
+    Wanxin is interested in examining contemporary business phenomena driven by advancements in information technologies, with a particular focus on their behavior and economic impacts on firms and individuals. Her research spans three major areas:
+ 
+ · 新兴在线（医疗）平台中的商业分析
+ · Business analytics in emerging online (healthcare) platforms
+
+ · 用户生成内容、企业生成内容和AI生成内容
+ · User-generated content, Firm-generated content, and AIGC
+ 
+ · 人工智能和机器学习的应用
+ · Applications of artificial intelligence and machine Learning
+
+
+Journal Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. **Wanxin Qiao**, Ni (Nina) Huang, Zhijun Yan*. How to Translate Frim-Generated Content to Sale: The Mediating Role of the User-Generated Content in Online Healthcare Platforms. _**Journal of Management Information Systems**_, 2024, forthcoming.（**FT50**期刊）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2. **Wanxin Qiao**, Zhijun Yan*, Xiaohan Wang. When the Clock Chimes: The Impact of On-the-hour Effects on User Anxiety Content Generation in Social Media Platforms. _**Journal of Affective Disorders**_, 2024,344: 69-78. (JCR Q1; 中科院top期刊)
 
-Getting started
+3. **Wanxin Qiao**, Zhijun Yan*, Xiaohan Wang. Join or Not: The Impact of Physicians’ Group Joining Behavior on Their Online Demand and Reputation in Online Health Communities. _**Information Processing and Management**_, 2021, 58(5), pp.102634.(JCR Q1; 中科院top期刊)
+
+Working Papers
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **Wanxin Qiao**, Yi-Chun (Chad) Ho, Zhijun Yan*. Examining the Impacts of Managerial Responses on Customer Reviews: A Content Congruence Perspective. **_MIS Quarterly_**, 2023, Prepare for 2nd Round Under Review.（**UTD24 & FT50**期刊）
+2. **乔晚馨**，李佩伦，颜志军*. 在线健康平台中医患互动形式的策略选择研究. _**系统工程理论与实践**_, 2024, 在审.
 
-Site-wide configuration
+Conference Proceedings and Workshops
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. **Wanxin Qiao**, Yi-Chun (Chad) Ho, Zhijun Yan. When Congruence Can Backfire: Examining Interplay of Managerial Response and Customer Reviews, _China Association for Information China Association for Information Systems Doctoral Paper Workshop (CNAIS 2023)_, Hangzhou, China.
 
-Create content & metadata
+2. **Wanxin Qiao**, Ni (Nina) Huang, Zhijun Yan. From Marketer-Generated Content to User-Generated Content: Evidence from Online Health Communities. _International Conference on Information Systems (ICIS 2022),_ Copenhagen, Denmark._/Conference on Information Systems and Technology (CIST 2021)_, California, US.
+
+3. **Wanxin Qiao**, Zhijun Yan, Junwei Kuang, Fei Peng. AI on Expression: How Artificial Intelligence Affects User-Generated Content: Evidence from Online Health Communities. _The Conference on Artificial Intelligence, Machine Learning, and Business Analytics (AIML 2021)_, Pennsylvania, US.
+
+4. **Wanxin Qiao**, Zhijun Yan. The Impact of Corporate Social Engagement Behavior on UGC and Customer Satisfaction in Mobile Health Community. _Conference on Health IT and Analytics 2019 (CHITA 2019), Washington D.C., US./The Informs Annual Meeting 2019 (INFORMS 2019)_, Seattle, US.
+
+5. **Wanxin Qiao**, Zhijun Yan. The Impact of Doctors’ Group Joining Behavior on Individual Online Consultation and Reputation in Online Health Communities, _The 13th China Summer Workshop on Information Management (CSWIM 2019)_, Shenzhen, China.
+
+6. **Wanxin Qiao**, Lini Kuang, Zhijun Yan. The Impact of Doctors Joining in Expert Groups on Individual Performance in Online Health Communities. _The Informs Annual Meeting 2018 (INFORMS 2018)_, Phoenix, US.
+
+7. **Wanxin Qiao**, Zhijun Yan. The Value of Expert Groups: The Impact of Doctors’ Group Joining Behavior on Individual Performance in Online Health Communities, _China Association for Information China Association for Information Systems Doctoral Paper Workshop (CNAIS 2018)_, Beijing, China. (**优秀论文奖**)
+
+8. Chenxi Guo, Quiju Yin, **Wanxin Qiao**. The Impact of Public Health Emergency Events on Health Behaviors-Evidence from the COVID-19. _Korea Management Information System International Conference (KMIS 2021)_, Seoul, Korea. (**Best Paper Award**)
+
+9. 刘艳, 邝俊伟, **乔晚馨**, 颜志军*. 付费还是免费？在线健康社区中医生知识分享行为对患者满意度的影响. _CNAIS第七届学术年会博士生与青年学者论坛_, 长沙, 湖南, 2021.（**优秀论文奖**）
+
+Projects
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. 中国科协2022年度研究生科普能力提升项目（省部级项目，KXYJ2022006），基于互联网的公众健康科普需求研究，2022-2023，项目负责人，已结题
 
-**Markdown generator**
+2. 国家建设高水平大学公派研究生项目(202106030129)，The Social and Economic Benefits of Marketer-Generated Content in Online Health Platforms，2021-2022，项目负责人，已结题
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+3. 国家自然科学基金重点国际(地区)合作研究项目(72110107003)，移动互联环境下抑郁症主智能筛查、评估干预方法和隐私保护机制研究，2022-2026，主要参与人，在研
 
-How to edit your site's GitHub repository
+4. 国家自然科学基金面上项目(71872013)，在线医疗服务中生个体行为和团队特征对绩效的影响机制研究，2019-2022，主要参与人，已结题
+
+5. 国家自然科学基金面上项目(71572013)，社交媒体健康知识发现与个性化诊疗方法研究，2016-2019，参与人，已结题
+
+Public Service
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+1. Information Processing and Management，Electronic Commerce Research and Applications，Information & Management，Journal of Affective Disorders期刊匿名审稿人
+   
+2. Pacific Asia Conference on Information Systems，China Association for Information China Association for Information Systems会议匿名审稿人
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+3. International Conference on Digital Health and Medical Analytics、TRPACE-IS、China Association for Information China Association for Information Systems等会议会务成员
 
-For more info
+4. 人工智能技术与管理应用研究会、Association for Information Systems会员 
+
+Honors & Awards
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. 2024年北京理工大学博士生优秀学位论文奖
+
+2. 2022年北京理工大学研究生奖学金二等奖
+
+3. 2021年国家留学基金委国家公派留学奖学金
+
+4. 2021年中国信息系统协会博士生论坛（CNAIS）优秀论文奖
+
+5. 2021年韩国管理信息系统会议（KMIS）最佳论文奖
+
+6. 2021年第三届全国高校数据驱动创新研究大赛一等奖
+
+7. 2021年北京理工大学研究生奖学金特等奖
+
+8. 2020年北京理工大学研究生奖学金二等奖
+
+9. 2019年北京理工大学研究生奖学金二等奖
+
+10. 2018年北京理工大学研究生奖学金一等奖
+
+11. 2018年中国信息系统协会博士生论坛（CNAIS）优秀论文奖
+
+12. 2017年北京理工大学“挑战杯”三等奖
+
+13. 2017年内蒙古自治区优秀毕业生
