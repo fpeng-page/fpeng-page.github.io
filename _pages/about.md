@@ -14,12 +14,15 @@ QIAO Wanxin is an assistant professor from the Department of Management Science 
 Wanxin is interested in examining contemporary business phenomena driven by advancements in information technologies, with a particular focus on their behavior and economic impacts on firms and individuals. Her research spans three major areas:
  
  · 新兴在线（医疗）平台中的商业分析   
+ 
  · Business analytics in emerging online (healthcare) platforms
 
  · 用户生成内容、企业生成内容和AI生成内容   
+ 
  · User-generated content, Firm-generated content, and AIGC
  
  · 人工智能和机器学习的应用   
+ 
  · Applications of artificial intelligence and machine Learning
 
 Journal Publications
