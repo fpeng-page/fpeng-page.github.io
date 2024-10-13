@@ -32,7 +32,7 @@ Journal Publications
 
 Working Papers
 ------
-<small>1. **Wanxin Qiao**, Yi-Chun (Chad) Ho, Zhijun Yan*. Examining the Impacts of Managerial Responses on Customer Reviews: A Content Congruence Perspective. **_MIS Quarterly_**, 2023, Prepare for 2nd Round Under Review.（**UTD24 & FT50**期刊）</small>
+<small>1. **Wanxin Qiao**, Yi-Chun (Chad) Ho, Zhijun Yan*. Examining the Impacts of Managerial Responses on Customer Reviews: A Content Congruence Perspective. **_MIS Quarterly_**, 2023, Prepare for 2nd Round Under Review.（**UTD24 & FT50**期刊）</small><br>
 <small>2. **乔晚馨**，李佩伦，颜志军*. 在线健康平台中医患互动形式的策略选择研究. _**系统工程理论与实践**_, 2024, 在审.</small>
 
 Conference Proceedings and Workshops
