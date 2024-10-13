@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Information"
+title: "QIAO Wanxin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
