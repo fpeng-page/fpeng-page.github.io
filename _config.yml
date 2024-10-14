@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "QIAO Wanxin"
+name                     : &name "PENG Fei"
 description              : &description "personal description"
-url                      : https://qiaowanxin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fpeng-page.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "QIAOWanxin/QIAOWanxin.github.io"
+repository               : "fpeng-page/fpeng-page.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "QIAO Wanxin (乔晚馨)"
-  avatar           : "qwxx.png"
-  bio              : "The harder, the luckier"
+  name             : "PENG Fei (彭飞)"
+  avatar           : "fpeng.png"
+  bio              : ""
   location         : "China, Beijing"
-  employer         : "Beijing University of Technology"
+  employer         : "Beijing Institute of Technology"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "qiaowanxin@bjut.edu.cn"
+  email            : "feipeng.chn@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"QIAOWanxin"
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0005-1657-680X"
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
