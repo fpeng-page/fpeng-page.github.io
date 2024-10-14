@@ -14,6 +14,14 @@ redirect_from:
 &emsp;&emsp;• &emsp;<small>社交媒体分析</small><br>
 &emsp;&emsp;• &emsp;<small>智慧健康管理</small><br>
 
+Education
+------
+<table style="border: none;">
+  <tr><td style="border: none;"><small>2019.9-至今</small></td><td><small>硕博连读</small></td><td><small>管理科学与工程</small></td><td><small>北京理工大学</small></td></tr>
+  <tr><td><small>2022.8-2024.8</small></td><td><small>联合培养博士</small></td><td><small>商务信息系统与运营管理</small></td><td><small>UNC Charlotte</small></td></tr>
+  <tr><td><small>2015.9-2019.6</small></td><td><small>管理学学士</small></td><td><small>信息管理与信息系统</small></td><td><small>北京理工大学</small></td></tr>
+</table>
+
 Journal Papers
 ------
 <small>1. **Fei Peng**, Dongsong Zhang, Zhijun Yan*. Digital Phenotyping-based Depression Detection in the Presence of Comorbidity: An Uncertainty Reasoning Approach. _**Journal of Management Information Systems**_, forthcoming, 2024. (**FT-50期刊**; JCR Q1; 中科院top期刊)</small><br>
