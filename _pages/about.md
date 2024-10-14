@@ -18,7 +18,7 @@ Education
 ------
 <table style="border: none;">
   <tr><td style="border: none;">2019.9-至今</td><td style="border: none;">硕博连读</td><td style="border: none;">管理科学与工程</td><td style="border: none;">北京理工大学</td></tr>
-  <tr><td style="border: none;">2022.8-2024.8</td><td style="border: none;">联合培养博士</td><td style="border: none;">商务信息系统与运营管理</td><td style="border: none;">UNC Charlotte</td></tr>
+  <tr><td style="border: none;">2022.8-2024.8</td><td style="border: none;">联合培养博士</td><td style="border: none;">Business Information Systems and Operations Management</td><td style="border: none;">UNC Charlotte</td></tr>
   <tr><td style="border: none;">2015.9-2019.6</td><td style="border: none;">管理学学士</td><td style="border: none;">信息管理与信息系统</td><td style="border: none;">北京理工大学</td></tr>
 </table>
 
