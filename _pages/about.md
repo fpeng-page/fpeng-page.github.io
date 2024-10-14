@@ -9,10 +9,10 @@ redirect_from:
 ---
 &emsp;&emsp;<small>彭飞是北京理工大学管理科学与工程专业在读博士生，2022-2024年在美国北卡罗莱纳大学夏洛特分校联合培养两年，以第一作者身份发表FT50期刊1篇、JCR Q1（中科院top）期刊二轮返修1篇，国际国内会议论文7篇，其他工作论文多篇。</small><br>
 &emsp;&emsp;<small>研究兴趣在于商务智能与数据挖掘，主要研究基于人工智能的健康管理技术，主要研究方向包括：</small><br>
-&emsp;&emsp;• &emsp;<small> 设计科学</small><br>
-&emsp;&emsp;• &emsp;<small> 深度学习</small><br>
-&emsp;&emsp;• &emsp;<small> 社交媒体分析</small><br>
-&emsp;&emsp;• &emsp;<small> 智慧健康管理</small><br>
+&emsp;&emsp;• &emsp;<small>设计科学</small><br>
+&emsp;&emsp;• &emsp;<small>深度学习</small><br>
+&emsp;&emsp;• &emsp;<small>社交媒体分析</small><br>
+&emsp;&emsp;• &emsp;<small>智慧健康管理</small><br>
 
 Journal Papers
 ------
