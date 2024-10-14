@@ -16,10 +16,10 @@ redirect_from:
 
 Education
 ------
-<table style="border: none;">
-  <tr><td style="border: none;"><small>2019.9-至今</small></td><td><small>硕博连读</small></td><td><small>管理科学与工程</small></td><td><small>北京理工大学</small></td></tr>
-  <tr><td><small>2022.8-2024.8</small></td><td><small>联合培养博士</small></td><td><small>商务信息系统与运营管理</small></td><td><small>UNC Charlotte</small></td></tr>
-  <tr><td><small>2015.9-2019.6</small></td><td><small>管理学学士</small></td><td><small>信息管理与信息系统</small></td><td><small>北京理工大学</small></td></tr>
+<table>
+  <tr><td style="border: none;">2019.9-至今</td><td style="border: none;">硕博连读</td><td style="border: none;">管理科学与工程</td><td style="border: none;">北京理工大学</td></tr>
+  <tr><td style="border: none;">2022.8-2024.8</td><td style="border: none;">联合培养博士</td><td style="border: none;">商务信息系统与运营管理</td><td style="border: none;">UNC Charlotte</td></tr>
+  <tr><td style="border: none;">>2015.9-2019.6</td><td style="border: none;">管理学学士</td><td style="border: none;">信息管理与信息系统</td><td style="border: none;">北京理工大学</td></tr>
 </table>
 
 Journal Papers
