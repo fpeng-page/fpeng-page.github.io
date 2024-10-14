@@ -18,7 +18,7 @@ Journal Papers
 ------
 <small>1. **Fei Peng**, Dongsong Zhang, Zhijun Yan*. Digital Phenotyping-based Depression Detection in the Presence of Comorbidity: An Uncertainty Reasoning Approach. _**Journal of Management Information Systems**_, forthcoming, 2024. (**FT-50期刊**; JCR Q1; 中科院top期刊)</small><br>
 <small>2. Zhijun Yan, **Fei Peng***, Dongsong Zhang. DECEN: A Deep Learning Model Enhanced by Identifying Depressive Emotions for Depression Detection from Social Media Content. _Decision Support Systems_, 2024, 二轮评审. (JCR Q1; 中科院top期刊) (导师一作，本人二作)</small><br>
-<small>3. **Fei Peng**, Jiaheng Xie, Zhijun Yan*. A Theory-Driven Smart Depression Assessment Approach: A Dynamical Systems Perspective. 拟投_MIS Quarterly_. (**UTD-24&FT-50期刊**）</small><br>
+<small>3. **Fei Peng**, Jiaheng Xie, Zhijun Yan*. A Theory-Driven Smart Depression Assessment Approach: A Dynamical Systems Perspective. 拟投 _MIS Quarterly_. (**UTD-24&FT-50期刊**）</small><br>
 
 Conference Papers
 ------
