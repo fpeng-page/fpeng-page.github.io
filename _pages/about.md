@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PENG Fei (彭飞)"
+title: "PENG Fei"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
