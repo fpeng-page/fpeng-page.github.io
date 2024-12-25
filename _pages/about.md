@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 &emsp;&emsp;<small>彭飞是北京理工大学管理科学与工程专业在读博士生，导师颜志军，2022-2024年在美国北卡罗莱纳大学夏洛特分校联合培养两年，外方导师Dongsong Zhang。彭飞的研究兴趣在于商务智能与数据挖掘，主要研究基于人工智能的健康管理技术。
-以第一作者身份发表FT50期刊1篇、AIS Senior scholars' basket期刊（ABS 3，JCR Q1，中科院top）二轮返修1篇，国际国内会议论文7篇，其他工作论文多篇。参与科研项目5项，其中主持北京理工大学研究生项目1项，参与国家自然基金委重点项目等4项。获得学术类奖项11项，曾担任“商务智能与数据分析”课程助教，同时承担多个期刊和会议的匿名评审人，并参与筹办多个国内国际会议。</small><br>
+以第一作者身份发表FT50期刊1篇、AIS Senior scholars' basket期刊（ABS 3，JCR Q1，中科院top）三轮评审1篇，国际国内会议论文7篇，其他工作论文多篇。主持和参与科研项目6项，其中主持国家自然科学基金博士生项目1项，主持北京理工大学研究生项目1项，参与国家自然基金委重点项目等4项。获得学术类奖项11项，曾担任“商务智能与数据分析”课程助教，同时承担多个期刊和会议的匿名评审人，并参与筹办多个国内国际会议。</small><br>
 
 
 Research Interests
@@ -29,8 +29,8 @@ Education
 
 Journal Papers
 ------
-<small>1. **Fei Peng**, Dongsong Zhang, Zhijun Yan*. Digital Phenotyping-based Depression Detection in the Presence of Comorbidity: An Uncertainty Reasoning Approach. _**Journal of Management Information Systems**_, forthcoming, 2024. (**FT-50期刊**; JCR Q1; 中科院top期刊)</small><br>
-<small>2. Zhijun Yan, **Fei Peng***, Dongsong Zhang. DECEN: A Deep Learning Model Enhanced by Identifying Depressive Emotions for Depression Detection from Social Media Content. _Decision Support Systems_, 2024, 二轮评审. (JCR Q1; 中科院top期刊) (导师一作，本人二作)</small><br>
+<small>1. **Fei Peng**, Dongsong Zhang, Zhijun Yan*. Digital Phenotyping-based Depression Detection in the Presence of Comorbidity: An Uncertainty Reasoning Approach. _**Journal of Management Information Systems**_, 2024, 41(4): 931-957. (**FT-50期刊**; ABS 4; JCR Q1; 中科院top期刊)</small><br>
+<small>2. Zhijun Yan, **Fei Peng***, Dongsong Zhang. DECEN: A Deep Learning Model Enhanced by Identifying Depressive Emotions for Depression Detection from Social Media Content. _Decision Support Systems_, 2024, 三轮评审. (ABS 3; JCR Q1; 中科院top期刊) (导师一作，本人二作)</small><br>
 <small>3. **Fei Peng**, Jiaheng Xie, Zhijun Yan*. A Theory-Driven Smart Depression Assessment Approach: A Dynamical Systems Perspective. 拟投 _MIS Quarterly_. (**UTD-24&FT-50期刊**）</small><br>
 
 Conference Papers
@@ -53,27 +53,28 @@ Patent and Copyright
 
 Projects
 ------
-<small>1. 北京理工大学逐梦寰宇拔尖创新研究生培养项目，基于智能移动健康技术的抑郁症持续监测和检测研究，2022-2023，项目负责人，已结题</small><br>
-<small>2. 国家自然科学基金重点研究项目(7243000183)，面向人口老龄化的主动数智医疗健康服务管理研究，2025-2029，主要参与人，在研</small><br>
-<small>3. 国家自然科学基金重点国际(地区)合作研究项目(72110107003)，移动互联环境下抑郁症主智能筛查、评估干预方法和隐私保护机制研究，2022-2026，主要参与人，在研</small><br>
-<small>4. 国家自然科学基金面上项目(71872013)，在线医疗服务中生个体行为和团队特征对绩效的影响机制研究，2019-2022，参与人，已结题</small><br>
-<small>5. 国家自然科学基金重点研发计划项目(2017YFB1400103)，众智科学基础理论与方法研究，2017-2020，参与人，已结题</small>
+<small>1. 国家自然科学基金青年学生基础研究项目（博士研究生）（724B2004），基于大模型和行为互联网的抑郁症病情评估方法研究，2025-2026，主持人，在研</small><br>
+<small>2. 北京理工大学逐梦寰宇拔尖创新研究生培养项目，基于智能移动健康技术的抑郁症持续监测和检测研究，2022-2023，主持人，已结题</small><br>
+<small>3. 国家自然科学基金重点研究项目(7243000183)，面向人口老龄化的主动数智医疗健康服务管理研究，2025-2029，主要参与人，在研</small><br>
+<small>4. 国家自然科学基金重点国际(地区)合作研究项目(72110107003)，移动互联环境下抑郁症主智能筛查、评估干预方法和隐私保护机制研究，2022-2026，主要参与人，在研</small><br>
+<small>5. 国家自然科学基金面上项目(71872013)，在线医疗服务中生个体行为和团队特征对绩效的影响机制研究，2019-2022，参与人，已结题</small><br>
+<small>6. 国家自然科学基金重点研发计划项目(2017YFB1400103)，众智科学基础理论与方法研究，2017-2020，参与人，已结题</small>
 
 Public Service
 ------
-<small>1. Journal of Medical Internet Research、International Journal of Crowd Science期刊匿名审稿人</small><br>
+<small>1. Information & Management、Journal of Medical Internet Research、International Journal of Crowd Science期刊匿名审稿人</small><br>
 <small>2. International Conference on Information Systems (ICIS), The Hawaii International Conference on System Sciences (HICSS), Conference on Information Systems and Technology (CIST), Pacific Asia Conference on Information Systems (PACIS), China Summer Workshop on Information Management (CSWIM), China Association for Information Systems Annual Meeting (CNAIS) 会议匿名审稿人</small><br>
 <small>3. International Conference on Digital Health and Medical Analytics、TRPACE-IS、China Association for Information Systems Annual Meeting等会议会务成员</small><br>
 <small>4. 人工智能技术与管理应用研究会、Association for Information Systems、Informs会员</small>
 
 Honors & Awards
 ------
-<small>1. 2023年北京理工大学逐梦寰宇创新人才奖学金</small><br>
-<small>2. 2023年第二届电子商务学科博士生东湖论坛优秀论文一等奖</small><br>
-<small>3. 2023年北京理工大学研究生学业奖学金二等奖</small><br>
-<small>4. 2022年北京理工大学逐梦寰宇创新人才奖学金</small><br>
-<small>5. 2022年北京理工大学研究生奖学业学金二等奖</small><br>
-<small>6. 2021年第三届全国高校数据驱动创新研究大赛一等奖</small><br>
+<small>1. 2024年北京理工大学研究生学业奖学金特等奖</small><br>
+<small>2. 2023年北京理工大学逐梦寰宇创新人才奖学金</small><br>
+<small>3. 2023年第二届电子商务学科博士生东湖论坛优秀论文一等奖</small><br>
+<small>4. 2023年北京理工大学研究生学业奖学金二等奖</small><br>
+<small>5. 2022年北京理工大学逐梦寰宇创新人才奖学金</small><br>
+<small>6. 2022年北京理工大学研究生奖学业学金二等奖</small><br>
 <small>7. 2021年第三届全国高校数据驱动创新研究大赛一等奖</small><br>
 <small>8. 2021年北京理工大学研究生学业奖学金二等奖</small><br>
 <small>9. 2021年北京理工大学优秀共产党员</small><br>
