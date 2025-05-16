@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 &emsp;&emsp;<small>彭飞是北京理工大学管理科学与工程专业在读博士生，导师颜志军，2022-2024年在美国北卡罗莱纳大学夏洛特分校联合培养两年，外方导师Dongsong Zhang。彭飞的研究兴趣在于商务智能与数据挖掘，主要研究基于人工智能的健康管理技术。
-以第一作者身份发表FT50期刊1篇、AIS Senior scholars' basket期刊（ABS 3，JCR Q1，中科院top）三轮评审1篇，国际国内会议论文7篇，其他工作论文多篇。主持和参与科研项目6项，其中主持国家自然科学基金博士生项目1项，主持北京理工大学研究生项目1项，参与国家自然基金委重点项目等4项。获得学术类奖项11项，曾担任“商务智能与数据分析”课程助教，同时承担多个期刊和会议的匿名评审人，并参与筹办多个国内国际会议。</small><br>
+以第一作者或通讯作者发表FT50期刊1篇、AIS Senior scholars' basket期刊（ABS 3，JCR Q1，中科院top）论文1篇，UTD24在审论文1篇，国际国内会议论文8篇，其他工作论文多篇。主持和参与科研项目6项，其中主持国家自然科学基金博士生项目1项，主持北京理工大学研究生项目1项，参与国家自然基金委重点项目等4项。曾担任“商务智能与数据分析”课程助教，同时承担多个期刊和会议的匿名评审人，并参与筹办多个国内国际会议。</small><br>
 
 
 Research Interests
@@ -31,7 +31,7 @@ Journal Papers
 ------
 <small>1. **Fei Peng**, Dongsong Zhang, Zhijun Yan*. Digital Phenotyping-based Depression Detection in the Presence of Comorbidity: An Uncertainty Reasoning Approach. _**Journal of Management Information Systems**_, 2024, 41(4): 931-957. (**FT-50期刊**; ABS 4; JCR Q1; 中科院top期刊)</small><br>
 <small>2. Zhijun Yan, **Fei Peng***, Dongsong Zhang. DECEN: A Deep Learning Model Enhanced by Identifying Depressive Emotions for Depression Detection from Social Media Content. _Decision Support Systems_, 2024, 三轮评审. (ABS 3; JCR Q1; 中科院top期刊) (导师一作，本人二作)</small><br>
-<small>3. **Fei Peng**, Jiaheng Xie, Zhijun Yan*. A Theory-Driven Smart Depression Assessment Approach: A Dynamical Systems Perspective. 拟投 _MIS Quarterly_. (**UTD-24&FT-50期刊**）</small><br>
+<small>3. **Fei Peng**, Jiaheng Xie, Zhijun Yan*. A Theory-Driven Smart Depression Assessment Approach: A Dynamical Systems Perspective. _Information Systems Research_, under review. (**UTD-24&FT-50期刊**）</small><br>
 
 Conference Papers
 ------
@@ -69,18 +69,20 @@ Public Service
 
 Honors & Awards
 ------
-<small>1. 2024年北京理工大学研究生学业奖学金特等奖</small><br>
-<small>2. 2023年北京理工大学逐梦寰宇创新人才奖学金</small><br>
-<small>3. 2023年第二届电子商务学科博士生东湖论坛优秀论文一等奖</small><br>
-<small>4. 2023年北京理工大学研究生学业奖学金二等奖</small><br>
-<small>5. 2022年北京理工大学逐梦寰宇创新人才奖学金</small><br>
-<small>6. 2022年北京理工大学研究生奖学业学金二等奖</small><br>
-<small>7. 2021年第三届全国高校数据驱动创新研究大赛一等奖</small><br>
-<small>8. 2021年北京理工大学研究生学业奖学金二等奖</small><br>
-<small>9. 2021年北京理工大学优秀共产党员</small><br>
-<small>10. 2020年北京理工大学研究生学业奖学金特等奖</small><br>
-<small>11. 2019年北京理工大学研究生学业奖学金特等奖</small><br>
-<small>12. 2019年北京市特别贡献奖</small><br>
-<small>13. 2017年北京理工大学优秀团员</small><br>
-<small>14. 2016年北京理工大学优秀学生</small>
+<small>1. 2025年北京市优秀毕业生</small><br>
+<small>2. 2025年北京理工大学工理管文融合育人奖学金</small><br>
+<small>3. 2024年北京理工大学研究生学业奖学金特等奖</small><br>
+<small>4. 2023年北京理工大学逐梦寰宇创新人才奖学金</small><br>
+<small>5. 2023年第二届电子商务学科博士生东湖论坛优秀论文一等奖</small><br>
+<small>6. 2023年北京理工大学研究生学业奖学金二等奖</small><br>
+<small>7. 2022年北京理工大学逐梦寰宇创新人才奖学金</small><br>
+<small>8. 2022年北京理工大学研究生奖学业学金二等奖</small><br>
+<small>9. 2021年第三届全国高校数据驱动创新研究大赛一等奖</small><br>
+<small>10. 2021年北京理工大学研究生学业奖学金二等奖</small><br>
+<small>11. 2021年北京理工大学优秀共产党员</small><br>
+<small>12. 2020年北京理工大学研究生学业奖学金特等奖</small><br>
+<small>13. 2019年北京理工大学研究生学业奖学金特等奖</small><br>
+<small>14. 2019年北京市特别贡献奖</small><br>
+<small>15. 2017年北京理工大学优秀团员</small><br>
+<small>16. 2016年北京理工大学优秀学生</small>
 
